@@ -1,11 +1,14 @@
-<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Abhijit Patil</h1>
+<h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">Tejas Tandon</h1>
+
+![batman](https://github.com/user-attachments/assets/960c92bf-6c5f-449f-bf94-e1767af9fa80)
 
 
-![Header Image](https://github.com/user-attachments/assets/657233d4-4ea4-4300-a095-30b273524462)
+
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and a good movie night. Outside of coding, I enjoy exploring new hobbies and staying curious.
+Currently a B.Tech student at IIIT Sri City.
+And I'm batman!!
 
 </p>
 
@@ -18,8 +21,8 @@ Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-  <li>I'm a night owl 🌙</li>
-  <li>Podcasts = relaxation 🎧</li>
+  <li>I'm a guitarist</li>
+  <li>Music = relaxation 🎧</li>
   <li>I'm obsessed with VR/AR tech 🌐</li>
 </ul>
 
